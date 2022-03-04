@@ -1,0 +1,1 @@
+# contactless-covid-scanner
